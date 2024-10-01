@@ -7,12 +7,12 @@ TOPIC 0: Recap on Jupyter Notebooks and some Python structures
 This section provides a recap of the core concepts you’ve already covered in your first year of Python programming.
 
 Notebook for starters
-- Markdown guide
-- Range-function 
+- [Markdown guide](https://markdown-guide.readthedocs.io/en/latest/basics.html)
+- [Range-function](Data-Processing/Samples/01_range_function_python.ipynb) 
 
 List, double and dict structures
- - List
- - Tuple
+ - [List](Data-Processing/Samples/02_Lists_Python.ipynb)
+ - [Tuple](Data-Processing/Samples/03_Tuples.ipynb)
  - Dict
  - Tuple assignment (often used in Python)
 
