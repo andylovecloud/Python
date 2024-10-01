@@ -42,7 +42,7 @@ To enhance your understanding of the topics covered in this course, the followin
 This book is great for beginners, offering practical Python examples and exercises to help you automate common tasks with Python.
 3. Numpy Library
 
-“The Numpy Documentation”
+[The Numpy Documentation](https://numpy.org/doc/stable/)
 This is the official documentation for the Numpy library, covering everything from installation to advanced functions.
 
 “Learning Numpy” by Ivan Idris
@@ -50,12 +50,12 @@ A beginner-friendly guide that introduces the Numpy library and how to use it fo
 
 4. Matplotlib and Data Visualization
 
-“Matplotlib Documentation”
+[Matplotlib Documentation](https://matplotlib.org/stable/tutorials/index)
 The official Matplotlib documentation offers detailed instructions on how to use the library for data visualization.
 
 5. Pandas Library
 
-“Pandas Documentation”
+[Pandas Documentation](https://pandas.pydata.org/docs/getting_started/index.html)
 This is the official documentation for the Pandas library, covering data manipulation and analysis using DataFrames.
 
 “Effective Pandas” by Matt Harrison
@@ -65,8 +65,8 @@ A concise and practical guide to mastering Pandas for data analysis tasks.
 
 6. Additional Resources
 
-“Real Python” (realpython.com)
+“Real Python” ([realpython.com](https://realpython.com/))
 An excellent resource with tutorials and articles on Python programming, data analysis, and visualization techniques.
 
-“Kaggle” (https://www.kaggle.com/learn/python)
+“Kaggle” ([https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python))
 Offers free tutorials and hands-on practice on Python, data analysis, and data visualization through Kaggle’s datasets.
