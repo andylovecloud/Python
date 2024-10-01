@@ -25,8 +25,9 @@ List comprehension
 
 String Formatting
 
-<!-- --------Recommended Reading List for Data Processing with Python------------ -->
 
+
+## Recommended Reading List for Data Processing with Python
 
 The following book will be the primary course material for this class:
 
