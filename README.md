@@ -23,7 +23,7 @@ Slicing in Python
 List comprehension
  - [Tutorial for list comprehension](https://www.programiz.com/python-programming/list-comprehension)
 
-[String Formatting](Data-Processing/Samples/06_String_Formatting.ipynb)
+ - [String Formatting](Data-Processing/Samples/06_String_Formatting.ipynb)
 
 
 ## Recommended Reading List for Data Processing with Python
