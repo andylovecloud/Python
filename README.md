@@ -13,18 +13,17 @@ Notebook for starters
 List, double and dict structures
  - [List](Data-Processing/Samples/02_Lists_Python.ipynb)
  - [Tuple](Data-Processing/Samples/03_Tuples.ipynb)
- - Dict
- - Tuple assignment (often used in Python)
+ - [Dict](Data-Processing/Samples/04_Dict.ipynb)
+ - [Tuple assignment (often used in Python)](https://runestone.academy/ns/books/published/thinkcspy/Lists/TupleAssignment.html)
 
 Slicing in Python
- - Slicing notebook
- - Tutorial for slicing
+ - [Slicing notebook](Data-Processing/Samples/05_Slicing.ipynb)
+ - [Tutorial for slicing](https://datadependence.com/2016/05/python-sequence-slicing-guide/)
 
 List comprehension
- - Tutorial for list comprehension
+ - [Tutorial for list comprehension](https://www.programiz.com/python-programming/list-comprehension)
 
-String Formatting
-
+[String Formatting](Data-Processing/Samples/06_String_Formatting.ipynb)
 
 
 ## Recommended Reading List for Data Processing with Python
