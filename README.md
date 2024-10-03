@@ -70,3 +70,25 @@ An excellent resource with tutorials and articles on Python programming, data an
 
 “Kaggle” ([https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python))
 Offers free tutorials and hands-on practice on Python, data analysis, and data visualization through Kaggle’s datasets.
+
+
+## TOPIC 1: Numpy Library
+
+The Numpy library is one of the core libraries for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a wide range of mathematical functions to operate on these arrays efficiently. Numpy is essential for many data science and machine learning applications.
+
+### Numpy Learning Materials:
+[1. Numpy Notebook:](/Users/Andy_1/Python/Data-Processing/Topic_1/01_Numpy.ipynb)
+Explore Numpy's capabilities through a detailed notebook covering array creation, element-wise operations, indexing, slicing, broadcasting, and mathematical functions for efficient scientific computing.
+
+[2. Speed Test: Numpy Arrays vs Python Lists:](/Users/Andy_1/Python/Data-Processing/Topic_1/02_Numpy_vs_List_Speed_Test.ipynb)
+Explore how Numpy significantly improves computational efficiency by comparing the speed of element-wise operations in Numpy arrays (ndarrays) versus native Python lists through a detailed speed test experiment.
+
+[3. Small Exercise for You:](/Users/Andy_1/Python/Data-Processing/Topic_1/BMI_Exercise_Notebook.ipynb)
+Practice calculating Body Mass Index (BMI) for 10 individuals using both regular Python lists and Numpy arrays. This exercise will help reinforce your understanding of Numpy’s array manipulation and mathematical capabilities.
+
+Additional Resources:
+[Numpy Documentation & Homepage:](https://numpy.org/)
+Learn more about Numpy from its official homepage, which includes full documentation and tutorials.
+
+[Numpy Tutorial on W3Schools:](https://www.w3schools.com/python/numpy/default.asp)
+Dive into the W3Schools Numpy tutorial for a deeper exploration of its functions and applications.
