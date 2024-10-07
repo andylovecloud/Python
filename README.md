@@ -92,3 +92,27 @@ Learn more about Numpy from its official homepage, which includes full documenta
 
 [Numpy Tutorial on W3Schools:](https://www.w3schools.com/python/numpy/default.asp)
 Dive into the W3Schools Numpy tutorial for a deeper exploration of its functions and applications.
+
+## TOPIC 2: Data Visualization
+
+Data visualization is a crucial aspect of data analysis, enabling you to visually communicate insights, trends, and patterns effectively. Python provides several powerful libraries for creating informative and attractive visualizations. In this section, we will focus on two key libraries: Matplotlib and Seaborn.
+
+## Learning Materials:
+1. Matplotlib Notebook:
+Explore the fundamentals of Matplotlib by learning how to create various types of plots such as line charts, bar charts, scatter plots, histograms, and pie charts
+
+Matplotlib with Real-World Dataset:
+Apply your knowledge of Matplotlib to real-world datasets in this hands-on notebook.
+
+2. Seaborn Notebook:
+Learn how to use Seaborn, a Python data visualization library based on Matplotlib that provides a high-level interface for creating attractive and informative statistical graphics.
+
+## Additional Resources:
+- [Matplotlib Documentation & Tutorials](https://matplotlib.org/stable/tutorials/index.html): Learn more about Matplotlib from its official homepage, which includes extensive documentation, tutorials, and examples of various plot types.
+
+- [Seaborn Documentation & Examples](https://seaborn.pydata.org/examples/index.html): Explore the Seaborn library through its official documentation, which provides tutorials, examples, and tips for customizing and enhancing your visualizations.
+
+- [Matplotlib Tutorial on W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp): Deepen your understanding of Matplotlib’s capabilities with a detailed tutorial on W3Schools, covering various plot types, customization options, and more.
+
+- [Seaborn Tutorial on W3Schools](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp): Learn how to create advanced visualizations with Seaborn by exploring the W3Schools tutorial, which includes practical examples and step-by-step guidance.
+
