@@ -98,13 +98,13 @@ Dive into the W3Schools Numpy tutorial for a deeper exploration of its functions
 Data visualization is a crucial aspect of data analysis, enabling you to visually communicate insights, trends, and patterns effectively. Python provides several powerful libraries for creating informative and attractive visualizations. In this section, we will focus on two key libraries: Matplotlib and Seaborn.
 
 ## Learning Materials:
-1. Matplotlib Notebook:
+1. [Matplotlib Notebook](Data-Processing/Topic_2/01_matplotlib_notebook.ipynb):
 Explore the fundamentals of Matplotlib by learning how to create various types of plots such as line charts, bar charts, scatter plots, histograms, and pie charts
 
-Matplotlib with Real-World Dataset:
+2. [Matplotlib with Real-World Dataset](Data-Processing/Topic_2/02_matplotlib_real_world_dataset.ipynb):
 Apply your knowledge of Matplotlib to real-world datasets in this hands-on notebook.
 
-2. Seaborn Notebook:
+3. [Seaborn Notebook](Data-Processing/Topic_2/03_seaborn_tutorial.ipynb):
 Learn how to use Seaborn, a Python data visualization library based on Matplotlib that provides a high-level interface for creating attractive and informative statistical graphics.
 
 ## Additional Resources:
