@@ -116,3 +116,36 @@ Learn how to use Seaborn, a Python data visualization library based on Matplotli
 
 - [Seaborn Tutorial on W3Schools](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp): Learn how to create advanced visualizations with Seaborn by exploring the W3Schools tutorial, which includes practical examples and step-by-step guidance.
 
+# TOPIC 3: Data Manipulation with Pandas
+Pandas is a powerful and versatile Python library for data manipulation and analysis. It provides data structures like Series and DataFrame to manage and analyze data efficiently, making it an essential tool for any data processing task. In this section, we will explore how to use Pandas for data cleaning, transformation, analysis, and manipulation.
+
+## Learning Materials:
+### [Pandas Fundamentals Notebook](Data-Processing/Topic_3/01_Pandas_Fundamentals_Notebook.ipynb):
+Learn the basics of Pandas, including how to create and manipulate Series and DataFrame objects, handle missing data, and perform basic data operations such as filtering, grouping, and sorting.
+
+### [Pandas with Real-World Dataset](Data-Processing/Topic_3/02_Pandas_Real_World_Dataset_Notebook.ipynb):
+Dive into practical applications of Pandas by working with real-world datasets [Download CSV Dataset]. This notebook will guide you through common data cleaning tasks, including handling missing values, transforming data, and preparing it for analysis.
+
+### [Advanced Pandas Operations Notebook](Data-Processing/Topic_3/03_Advanced_Pandas_Operations_Notebook.ipynb):
+Explore more advanced Pandas features such as pivot tables, merging, joining, reshaping data, and working with time series data.
+
+## Additional Resources:
+### [Pandas Documentation & Tutorials](https://pandas.pydata.org/docs/getting_started/index.html): 
+The official Pandas documentation, which provides a comprehensive guide to the library, including tutorials, examples, and best practices for data manipulation.
+
+### [Pandas Tutorial on W3Schools](https://www.w3schools.com/python/pandas/default.asp): 
+A beginner-friendly guide to Pandas, offering practical examples and step-by-step instructions to help you master the library's core functionalities.
+
+## [Pandas Cheat SheetAvaa tämä dokumentti ReadSpeaker docReaderillä](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) : 
+A quick reference guide for common Pandas operations, ideal for refreshing your knowledge or finding specific commands quickly.
+
+# TOPIC 4: Analyzing Example Dataset
+We will apply the data manipulation techniques learned in the previous topics to a real-world dataset. The dataset used here is a shop satisfaction survey that contains responses from participants along with relevant information about their demographics, purchasing behavior, and satisfaction levels.
+
+You will learn how to do data cleaning, explore descriptive statistics, visualize the data, and examine the relationships between variables using cross-tabulation and hypothesis testing.
+
+By the end of this session, you should be able to effectively apply data processing and analysis techniques to any dataset. You will use a similar dataset for your project.
+
+## Learning Materials:
+ - [Dataset](https://docs.google.com/spreadsheets/d/1O11J6HpC9UL0F3y479JPOZgsN2FYPonZ/edit?gid=735537166#gid=735537166)
+- [Analyzing Dataset Notebook](Data-Processing/Topic_4/Analyzing_ShopSatisfactionData.ipynb)
