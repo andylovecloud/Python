@@ -172,7 +172,7 @@ Supervised learning is a fundamental approach in predictive analytics, where a m
 
 - [Explanation of k-Fold Cross Validation (External Link)](https://machinelearningmastery.com/k-fold-cross-validation/): Review this linked article for an in-depth explanation of k-fold cross-validation.
 
-- Additional Resources: Here are some resources to deepen your understanding about the field Data Science:
+#### Additional Resources: Here are some resources to deepen your understanding about the field Data Science:
 
 - [What is Data Science](https://www.javatpoint.com/data-science): Understand the fundamentals of data science.
 
