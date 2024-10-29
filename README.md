@@ -150,4 +150,9 @@ By the end of this session, you should be able to effectively apply data process
  - [Dataset](https://docs.google.com/spreadsheets/d/1O11J6HpC9UL0F3y479JPOZgsN2FYPonZ/edit?gid=735537166#gid=735537166)
 - [Analyzing Dataset Notebook](Data-Processing/Topic_4/Analyzing_ShopSatisfactionData.ipynb)
 
+
 ## Predictive Analytics with Python 2024 
+
+### TOPIC 1: Supervised Learning (k-Nearest Neighbors Algorithm)
+
+
