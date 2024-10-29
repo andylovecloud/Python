@@ -157,11 +157,11 @@ By the end of this session, you should be able to effectively apply data process
 
 Supervised learning is a fundamental approach in predictive analytics, where a model learns from labeled data to make predictions. In this topic, we will focus on the k-Nearest Neighbors (kNN) algorithm, a simple yet powerful classification technique.
 
-Learning Materials:
+#### Learning Materials:
 
 - [Lecture 01 Slides : Supervised Learning and the kNN Algorithm](https://docs.google.com/presentation/d/1jGgc_COPYduoBDRPieZGFmP_S8SRexajgXhZk4sHUyI/edit#slide=id.g30f52f0f268_2_272)
 
-Code Examples:
+#### Code Examples:
 
 - [kNN Algorithm Using the sklearn Library](Predictive-Analysis/Topic-1/01_kNN_sklearn.ipynb): For hands-on implementation, use this notebook with sklearn to easily apply the kNN algorithm. (Recommended for Assignment 1)
 - [kNN Algorithm from Scratch (For Practice Only)](https://deepnote.com/app/ndungu/Implementing-KNN-Algorithm-on-the-Iris-Dataset-e7c16493-500c-4248-be54-9389de603f16): Understand the inner workings of the kNN algorithm with a Python implementation built from scratch. (Note: This is for practice and not required for Assignment 1).
