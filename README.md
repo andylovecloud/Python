@@ -155,4 +155,27 @@ By the end of this session, you should be able to effectively apply data process
 
 ### TOPIC 1: Supervised Learning (k-Nearest Neighbors Algorithm)
 
+Supervised learning is a fundamental approach in predictive analytics, where a model learns from labeled data to make predictions. In this topic, we will focus on the k-Nearest Neighbors (kNN) algorithm, a simple yet powerful classification technique.
+
+Learning Materials:
+
+- [Lecture 01 Slides : Supervised Learning and the kNN Algorithm](https://docs.google.com/presentation/d/1jGgc_COPYduoBDRPieZGFmP_S8SRexajgXhZk4sHUyI/edit#slide=id.g30f52f0f268_2_272)
+
+Code Examples:
+
+- [kNN Algorithm Using the sklearn Library](Predictive-Analysis/Topic-1/01_kNN_sklearn.ipynb): For hands-on implementation, use this notebook with sklearn to easily apply the kNN algorithm. (Recommended for Assignment 1)
+- [kNN Algorithm from Scratch (For Practice Only)](https://deepnote.com/app/ndungu/Implementing-KNN-Algorithm-on-the-Iris-Dataset-e7c16493-500c-4248-be54-9389de603f16): Understand the inner workings of the kNN algorithm with a Python implementation built from scratch. (Note: This is for practice and not required for Assignment 1).
+
+- Cross Validation: Cross-validation is essential to ensure your model generalizes well to new data. We’ll use k-fold cross-validation with the kNN algorithm to assess performance.
+
+-- kNN with k-Fold Cross Validation (Notebook): Explore how to implement k-fold cross-validation using sklearn and kNN to improve model reliability.
+
+-- [Explanation of k-Fold Cross Validation (External Link)](https://machinelearningmastery.com/k-fold-cross-validation/): Review this linked article for an in-depth explanation of k-fold cross-validation.
+
+- Additional Resources: Here are some resources to deepen your understanding about the field Data Science:
+
+-- [What is Data Science](https://www.javatpoint.com/data-science): Understand the fundamentals of data science.
+
+-- [Data Science vs. Machine Learning](https://www.javatpoint.com/data-science-vs-machine-learning): Discover the differences between data science and machine learning and how they complement each other.
+
 
