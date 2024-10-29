@@ -168,14 +168,14 @@ Supervised learning is a fundamental approach in predictive analytics, where a m
 
 - Cross Validation: Cross-validation is essential to ensure your model generalizes well to new data. We’ll use k-fold cross-validation with the kNN algorithm to assess performance.
 
--- kNN with k-Fold Cross Validation (Notebook): Explore how to implement k-fold cross-validation using sklearn and kNN to improve model reliability.
+- kNN with k-Fold Cross Validation (Notebook): Explore how to implement k-fold cross-validation using sklearn and kNN to improve model reliability.
 
--- [Explanation of k-Fold Cross Validation (External Link)](https://machinelearningmastery.com/k-fold-cross-validation/): Review this linked article for an in-depth explanation of k-fold cross-validation.
+- [Explanation of k-Fold Cross Validation (External Link)](https://machinelearningmastery.com/k-fold-cross-validation/): Review this linked article for an in-depth explanation of k-fold cross-validation.
 
 - Additional Resources: Here are some resources to deepen your understanding about the field Data Science:
 
--- [What is Data Science](https://www.javatpoint.com/data-science): Understand the fundamentals of data science.
+- [What is Data Science](https://www.javatpoint.com/data-science): Understand the fundamentals of data science.
 
--- [Data Science vs. Machine Learning](https://www.javatpoint.com/data-science-vs-machine-learning): Discover the differences between data science and machine learning and how they complement each other.
+- [Data Science vs. Machine Learning](https://www.javatpoint.com/data-science-vs-machine-learning): Discover the differences between data science and machine learning and how they complement each other.
 
 
