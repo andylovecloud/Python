@@ -46,4 +46,6 @@ An in-depth look at the theory and application of SVM, covering its foundation, 
 
 #### Additional Resources:
 
-- scikit-learn SVM Documentation: Comprehensive guide to SVMs in scikit-learn, covering implementation, kernels, and tuning options.
+- scikit-learn SVM Documentation: [Comprehensive guide to SVMs in scikit-learn](https://scikit-learn.org/stable/modules/svm.html), covering implementation, kernels, and tuning options.
+- Book: Hands-On Machine Learning with Scikit-Learn - Chapter 5
+- Code Notebook from Book
