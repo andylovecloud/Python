@@ -49,3 +49,26 @@ An in-depth look at the theory and application of SVM, covering its foundation, 
 - scikit-learn SVM Documentation: [Comprehensive guide to SVMs in scikit-learn](https://scikit-learn.org/stable/modules/svm.html), covering implementation, kernels, and tuning options.
 - Book: [Hands-On Machine Learning with Scikit-Learn - Chapter 5](https://hamk.finna.fi/PrimoRecord/pci.cdi_askewsholts_vlebooks_9781492032618?sid=4863288493)
 - [Code Notebook from Book](Topic-2/Feature_Selection.ipynb)
+
+
+# TOPIC 3: Unsupervised Learning (k-Means Algorithm)
+
+Unsupervised learning involves finding patterns or groupings within data without labeled responses. The k-Means algorithm, a popular clustering technique, will serve as our main example for understanding unsupervised learning.
+
+### Learning Materials:
+
+- [Lecture Slides on Unsupervised Learning and the k-Means Algorithm](https://docs.google.com/presentation/d/1Gz-_sHmouEOO1FdmXHkOtB8iYXdstpqE3YWbZ_9VG7Q/edit#slide=id.g315f3b440ce_2_235): Gain insights into unsupervised learning concepts and explore the k-Means algorithm with these lecture slides.
+
+- Code Examples:
+
+    - [k-Means Algorithm](Topic-3/01_KMeans_Iris_Implementation.ipynb) (Notebook):A hands-on implementation of the k-Means algorithm in Python, applied to the Iris dataset.
+
+    - [K-Means on Custom Dataset](Topic-3/02_KMeans_Income_Dataset.ipynb): Implementation of K-Means clustering on a small custom dataset containing fields like Name, Age, and Salary. ([Download the Income Dataset](Topic-3/income.csv)))
+
+    - [k-Means Algorithm Example](https://www.kaggle.com/code/khotijahs1/k-means-clustering-of-iris-dataset) (External Link): Access an online example to see another implementation of k-Means in action (Kaggle).
+
+- Additional Resources: 
+
+    - [Machine Learning Cheat Sheet](Topic-3/azure-machine-learning-algorithm-cheat-sheet-july-2021.pdf): Refer to the Azure ML cheat sheet for guidance on selecting the best machine learning algorithms for various tasks based on data type and objectives.
+
+    - [Scikit-learn documentation for K-Means](https://scikit-learn.org/1.5/modules/clustering.html#k-means): Comprehensive documentation detailing the implementation and usage of the K-Means algorithm in Scikit-learn.
