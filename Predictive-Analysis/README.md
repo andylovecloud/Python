@@ -78,16 +78,16 @@ Linear regression is a foundational technique in predictive analytics, allowing 
 
 ### Learning Materials:
 
-    - [Lecture Slides on Linear Regression](https://docs.google.com/presentation/d/12f8T0BcqOKaMzAvmj3v5zvd6UHUQpeNKoaueIfKnEbM/edit#slide=id.g315f3b440ce_2_235):  Introduction to Linear Regression
+- [Lecture Slides on Linear Regression](https://docs.google.com/presentation/d/12f8T0BcqOKaMzAvmj3v5zvd6UHUQpeNKoaueIfKnEbM/edit#slide=id.g315f3b440ce_2_235):  Introduction to Linear Regression
 
 Code Examples:
 
-    - [Simple Linear Regression (Notebook)](https://github.com/andylovecloud/Python/blob/0d2589ebe0f6297622c5c2a90a9868d629568f5c/Predictive-Analysis/Topic-4/01_Simple_Linear_Regression.ipynb): Understanding the Mathematical Foundation with a Practical Python Example.
-    - [Multi-variable Linear Regression (Notebook)](Predictive-Analysis/Topic-4/03_Multiple Linear Regression.ipynb): Linear regression with multiple variables.
-    - [AutoMPG Dataset](Predictive-Analysis/Topic-4/autoMPG_data.xlsx) (Excel File): Download this dataset to practice building and evaluating regression models.
-    - Linear Regression for AutoMPG Data (Notebook Will be uploaded soon): This notebook walks through analysis steps for the AutoMPG dataset.
+- [Simple Linear Regression (Notebook)](https://github.com/andylovecloud/Python/blob/0d2589ebe0f6297622c5c2a90a9868d629568f5c/Predictive-Analysis/Topic-4/01_Simple_Linear_Regression.ipynb): Understanding the Mathematical Foundation with a Practical Python Example.
+- [Multi-variable Linear Regression (Notebook)](https://github.com/andylovecloud/Python/blob/0d2589ebe0f6297622c5c2a90a9868d629568f5c/Predictive-Analysis/Topic-4/03_Multiple%20Linear%20Regression.ipynb): Linear regression with multiple variables.
+- [AutoMPG Dataset](Predictive-Analysis/Topic-4/autoMPG_data.xlsx) (Excel File): Download this dataset to practice building and evaluating regression models.
+- [Linear Regression for AutoMPG Data]() (Notebook Will be uploaded soon): This notebook walks through analysis steps for the AutoMPG dataset.
 
 ### Additional Resources:
 
-    - [Tutorial on Kaggle](https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series): Linear Regression With Time Series
-    - [Linear Regression Example](https://scikit-learn.org/1.5/auto_examples/linear_model/plot_ols.html) on Scikit-Learn Documentation
+- [Tutorial on Kaggle](https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series): Linear Regression With Time Series
+- [Linear Regression Example](https://scikit-learn.org/1.5/auto_examples/linear_model/plot_ols.html) on Scikit-Learn Documentation
