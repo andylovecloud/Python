@@ -72,3 +72,23 @@ Unsupervised learning involves finding patterns or groupings within data without
     - [Machine Learning Cheat Sheet](Topic-3/azure-machine-learning-algorithm-cheat-sheet-july-2021.pdf): Refer to the Azure ML cheat sheet for guidance on selecting the best machine learning algorithms for various tasks based on data type and objectives.
 
     - [Scikit-learn documentation for K-Means](https://scikit-learn.org/1.5/modules/clustering.html#k-means): Comprehensive documentation detailing the implementation and usage of the K-Means algorithm in Scikit-learn.
+
+# TOPIC 4: Linear Regression
+Linear regression is a foundational technique in predictive analytics, allowing us to understand relationships between variables and make predictions based on data trends.
+
+### Learning Materials:
+
+    - [Lecture Slides on Linear Regression](https://docs.google.com/presentation/d/12f8T0BcqOKaMzAvmj3v5zvd6UHUQpeNKoaueIfKnEbM/edit#slide=id.g315f3b440ce_2_235):  Introduction to Linear Regression
+
+Code Examples:
+
+    - [Simple Linear Regression (Notebook)](): Understanding the Mathematical Foundation with a Practical Python Example.
+
+    - [Multi-variable Linear Regression (Notebook)](): Linear regression with multiple variables.
+    - AutoMPG Dataset (Excel File): Download this dataset to practice building and evaluating regression models.
+    - Linear Regression for AutoMPG Data (Notebook Will be uploaded soon): This notebook walks through analysis steps for the AutoMPG dataset.
+
+### Additional Resources:
+
+    - [Tutorial on Kaggle](https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series): Linear Regression With Time Series
+    - [Linear Regression Example](https://scikit-learn.org/1.5/auto_examples/linear_model/plot_ols.html) on Scikit-Learn Documentation
