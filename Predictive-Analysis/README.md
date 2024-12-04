@@ -82,10 +82,9 @@ Linear regression is a foundational technique in predictive analytics, allowing 
 
 Code Examples:
 
-    - [Simple Linear Regression (Notebook)](): Understanding the Mathematical Foundation with a Practical Python Example.
-
-    - [Multi-variable Linear Regression (Notebook)](): Linear regression with multiple variables.
-    - AutoMPG Dataset (Excel File): Download this dataset to practice building and evaluating regression models.
+    - [Simple Linear Regression (Notebook)](Predictive-Analysis/Topic-4/01_Simple_Linear_Regression.ipynb): Understanding the Mathematical Foundation with a Practical Python Example.
+    - [Multi-variable Linear Regression (Notebook)](Predictive-Analysis/Topic-4/03_Multiple Linear Regression.ipynb): Linear regression with multiple variables.
+    - [AutoMPG Dataset](Predictive-Analysis/Topic-4/autoMPG_data.xlsx) (Excel File): Download this dataset to practice building and evaluating regression models.
     - Linear Regression for AutoMPG Data (Notebook Will be uploaded soon): This notebook walks through analysis steps for the AutoMPG dataset.
 
 ### Additional Resources:
